@@ -1,10 +1,10 @@
 # Line Follower Project
 
 # Collaborators:
-<ul>
-<li>Bucșă (also the team name)</li>
-<li> [Stefania Cristea](https://github.com/StefaniaCri/LineFolowerProject) </li>
-</ul>
+
+* Bucșă (also the team name)
+* [Stefania Cristea](https://github.com/StefaniaCri/LineFolowerProject)
+
 
 # Technical task
   Create a self-calibrating line follower that can follow a black line path. 
